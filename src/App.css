@@ -137,7 +137,7 @@ p {
   width: 14px;
   height: 14px;
   border-radius: 50%;
-  background-color: red;
+  background-color: #1D4ED8;
   left: 1px;
   top: 1px;
   animation: explode 2s linear 2;
@@ -150,7 +150,7 @@ p {
   border-radius: 50%;
   left: 2px;
   top: 2px;
-  background-color: yellow;
+  background-color: #3B82F6;
   animation: explode 3s linear 2;
 }
 
@@ -161,7 +161,7 @@ p {
   border-radius: 50%;
   left: 3px;
   top: 3px;
-  background-color: blue;
+  background-color: #93C5FD;
   animation: explode 4s linear 1;
 }
 
