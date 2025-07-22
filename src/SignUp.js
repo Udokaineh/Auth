@@ -42,7 +42,7 @@ const SignUp = () => {
             </div>
             <div className="form">
               <h2>Sign up</h2>
-              <p class="sub-title">Stepping into a world of captivating animated lights.</p>
+              <p class="sub-title">Enter into a world of captivating animated lights.</p>
               {error && <p className="error">{error}</p>}
               <div className="inputs-div">
                 <p>Email</p>
